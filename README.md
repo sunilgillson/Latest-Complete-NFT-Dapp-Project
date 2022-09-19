@@ -11,7 +11,7 @@
 As crypto mixes with culture, dapp offerings continue to diversify and mature.
 Many visionary projects dissolved into the ether during the long, cold bear market,
 yet we can feel their traces in brilliant apps we love and use today. Resilient weeds 
-poke out of the proverbial dapp cemetery, calling on their ancestors’ goals and code bases
+poke out of the proverbial dapp cemetery, calling on their ancestorsâ€™ goals and code bases
 to deliver new modes of value exchange and network collaboration. RareArt crawled so Zora could run.
 PepeAvatars are reminiscent of the abandoned CryptoPepes. Ujo sowed the seeds for Audius to have 3 million
 active users today.</p>
@@ -77,9 +77,9 @@ First ensure you are in a new and empty directory.
 * Github: [@Sunil-Kumar](https://github.com/sunilgillson/)
 * LinkedIn: [@Sunil-Kumar](https://www.linkedin.com/in/sunil-kumar-971619148/)
 
-## Show your support
+## Please Connect Metamask Wallet By Following Link:
+<a href="https://nft-boilerplate.on.fleek.co/</a>
 
-Give a ?? if this project helped you!
 Please Send Mail To Ask any questions;  Sunilgillson@gmail.com 
 
 ***
