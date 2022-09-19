@@ -18,8 +18,6 @@ active users today.</p>
 
 ### ? [New Technology Learn By Our Blosspot](https://protechlearnings.blogspot.com/)
 
-# NFT-Dapp-Sunilgillson
-
 <br />
 
 <div align="center"><strong>Start your next dapp / defi project in seconds</strong></div>
@@ -78,13 +76,11 @@ First ensure you are in a new and empty directory.
 * LinkedIn: [@Sunil-Kumar](https://www.linkedin.com/in/sunil-kumar-971619148/)
 
 ## Please Connect Metamask Wallet By Following Link:
-<a href="https://nft-boilerplate.on.fleek.co/</a>
+https://nft-boilerplate.on.fleek.co/
 
 Please Send Mail To Ask any questions;  Sunilgillson@gmail.com 
 
 ***
-_This README was generated with ?? by [readme-md-generator](https://github.com/sunilgillson/readme-md-generator)_
-
 <div align="center">
   <sub>This Project Created by <a href="https://github.com/sunilgillson">Sunil Kumar</a>.</sub>
 </div>
